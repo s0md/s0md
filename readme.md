@@ -28,3 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somd&show_icons=true&locale=en" alt="somd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somd&" alt="somd" /></p>
+
+
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
